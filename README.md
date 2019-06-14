@@ -15,7 +15,7 @@ The library manage BST of generic type and has the following funcitionality (bot
 3. deletion of all elements of in a BST;
 4. deletion from a BST given an input item;
 5. deletion from a given ABR of all items containing an item that meets the following property:
-"has a v key such that a ≤ v ≤ b, with a and b input date elements, and is at depth p with p1 ≤ p ≤ p2, where p1 and p2 are input data integers';
+"has a v key such that a ≤ v ≤ b, with a and b input elements, and is at depth p with p1 ≤ p ≤ p2, where p1 and p2 are input integers';
 6. duplication of an input BST as the only parameter of the function;
 7. verifies if two BST data are identical, i.e. if they have the same keys and the same shape;
 8. filling an ordered array containing all the elements of a given BST;
